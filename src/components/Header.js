@@ -7,7 +7,7 @@ export default function Layout(){
         <header className='  text-3xl font-semibold p-3 bg-green-600/90 text-white '>
         SHIVAM SALES CORPORATIONS
       </header>
-      <nav className='text-xl top-0  p-0.5  sticky bg-lime-400/50'>
+      <nav className='text-xl top-0 h-8 p-0.5  sticky bg-lime-400/50'>
             navbar
       </nav>
       
