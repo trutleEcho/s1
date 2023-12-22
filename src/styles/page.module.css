@@ -26,6 +26,17 @@
     width: 66%;
     font-size:large;
 }
+.some_more_info{
+    height: 500px;
+    border: solid;
+}
+.footer{
+    height: 100px;
+    border: dashed;
+}
+
+
+
 @media only screen and(max-width:600px) {
     .branddata{
         padding: 5px;

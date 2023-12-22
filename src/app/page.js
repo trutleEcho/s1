@@ -39,6 +39,17 @@ export default function Home() {
     </section>
 
 
+    <section id='some-more-info' className={styles.some_more_info}>
+
+    </section>
+    
+
+    <footer id='footer' className={styles.footer}>
+
+
+
+    </footer>
+
     </>
   )
 }
